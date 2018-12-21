@@ -1,0 +1,6 @@
+<div class="row">
+    {% for post in paginator.posts %}
+    {% include pre-post.html %}
+    {% endfor %}
+    {% include pagination.html %}
+</div>
