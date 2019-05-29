@@ -16,7 +16,8 @@ function slider() {
     function slide_item() {
         var bh = $(window).height();
         var menu = $('.container').height();
-        var h = bh - menu; 
+        var footer = $('.footer').height();
+        var h = bh - menu - footer;
         $('.item').height(h);
         $('.item-bg').height(h);
     }
