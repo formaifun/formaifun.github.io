@@ -76,9 +76,9 @@ function slider() {
         if(isPause === false){
             percentTime += 1 / time;
 
-            $bar.css({
-                width: percentTime+"%"
-            });
+            // $bar.css({
+            //     width: percentTime+"%"
+            // });
 
             // if percentTime is equal or greater than 100
             if(percentTime >= 100){
