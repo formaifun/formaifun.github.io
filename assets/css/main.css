@@ -173,3 +173,7 @@ a:hover {
 .navbar-footer {
     flex-direction: row;
 }
+
+.owl-carousel .owl-dots .owl-dot.active span, .owl-carousel .owl-dots .owl-dot:hover span {
+    background: #869791;
+}
