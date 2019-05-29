@@ -48,7 +48,7 @@ function slider() {
     
     function progressBar(){
         // build progress bar elements
-        buildProgressBar();
+        // buildProgressBar();
 
         // start counting
         start();
