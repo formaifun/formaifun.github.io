@@ -113,6 +113,7 @@ a:hover {
     position: absolute;
     cursor: pointer;
     text-align: center;
+    width: 100%;
 }
 .slider .owl-carousel .owl-dots .owl-dot span {
     width: 10px;
