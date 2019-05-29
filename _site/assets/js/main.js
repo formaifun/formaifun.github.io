@@ -34,7 +34,7 @@ function slider() {
     $('.owl-carousel').owlCarousel({
         loop: true,
         nav: true,
-        dots: false,
+        dots: true,
         mouseDrag: false,
         touchDrag: false,
         items: 1,
@@ -48,7 +48,7 @@ function slider() {
     
     function progressBar(){
         // build progress bar elements
-        buildProgressBar();
+        // buildProgressBar();
 
         // start counting
         start();
@@ -76,9 +76,9 @@ function slider() {
         if(isPause === false){
             percentTime += 1 / time;
 
-            $bar.css({
-                width: percentTime+"%"
-            });
+            // $bar.css({
+            //     width: percentTime+"%"
+            // });
 
             // if percentTime is equal or greater than 100
             if(percentTime >= 100){

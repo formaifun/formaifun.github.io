@@ -34,7 +34,7 @@ function slider() {
     $('.owl-carousel').owlCarousel({
         loop: true,
         nav: true,
-        dots: false,
+        dots: true,
         mouseDrag: false,
         touchDrag: false,
         items: 1,
