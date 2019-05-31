@@ -182,3 +182,7 @@ a:hover {
 .owl-carousel .owl-dots .owl-dot.active span, .owl-carousel .owl-dots .owl-dot:hover span {
     background: #869791;
 }
+
+.post-content{
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif
+}
