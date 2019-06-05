@@ -1,7 +1,7 @@
 <div class="row">
-    <span>text</span>
-    {% for post in posts %}
-    {% include pre-post.html %}
+    <span>TEXT</span>
+    {% for post in paginator.posts %}
+      {% include pre-post.html %}
     {% endfor %}
     {% include pagination.html %}
 </div>
