@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sofia and surroundings itinerary for four (or less) days
+categories: travel
 ---
 
 ## *List of things to do in Sofia with practical tips, visuals and maps!*
