@@ -7,7 +7,19 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+# Happy Jekylling!     
+
+
+git_source(:github) do |repo_name|
+  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
+  "https://github.com/#{repo_name}.git"
+end
+
+gem "github-pages",
+    github: 'formaifun/pages-gem',
+    branch: "master",
+    group: :jekyll_plugins
+
 gem "jekyll", "~> 3.8.4"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
