@@ -1,0 +1,20 @@
+{
+  "name" : "Mai theme",
+  "description" : "This is Mai thene (folder = mai)",
+  "thumb" : "images/image.png",
+  "settings":[
+    {"label": "Settings", "action_name": "settings"}
+  ],
+
+  "helpers": [
+    "Themes::Mai::DefaultHelper"
+  ],
+  "hooks": {
+    "extra_custom_fields": ["mai_extra_custom_fields"],
+    "on_theme_settings": [
+      "theme_mai_settings"
+    ],
+    "on_active": ["theme_mai_on_install"]
+    //"on_inactive": ["camaleon_first_on_uninstall_theme"]
+  }
+}

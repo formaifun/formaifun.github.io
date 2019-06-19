@@ -1,0 +1,15 @@
+<nav class="navbar navbar-expand-lg navbar-light sticky-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a id="logo" class="navbar-brand" href="<%= current_site.the_url %>"><%= current_site.the_title %></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+        <div id="navbar-main" class="navbar-collapse collapse">
+            <%= raw get_nav_menu('main_menu', 'nav navbar-nav ml-auto') %>
+          
+            <%= raw current_site.draw_languages("language list-inline pull-right", true) %>
+        </div>
+    </div>
+</nav>
