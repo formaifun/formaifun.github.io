@@ -19,7 +19,11 @@
         <div id="navbar-main" class="navbar-collapse collapse">
           <%= raw get_nav_menu('main_menu', 'nav navbar-nav ml-auto') %>
           
-          <%= raw current_site.draw_languages("language list-inline pull-right", true) %>
+          <%= raw(current_site.draw_languages("nav navbar-nav language-list list-inline pull-right", true) do |lang|
+            image_tag(theme_asset_path("images/language/#{lang}.png") )
+          end) %>
         </div>
+        <% url =  %>
+        <%= url %>
     </div>
 </nav>

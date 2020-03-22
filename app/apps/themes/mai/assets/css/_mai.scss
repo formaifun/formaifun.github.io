@@ -304,6 +304,17 @@ nav.navbar.shrink {
     opacity: 1;
   }
 }
+.language-list {
+  img {
+    width: 18px;
+    border-radius: 2px;
+    border: 1px solid black;
+    vertical-align: inherit;
+  }
+  li {
+    padding-left: 5px;
+  }
+}
 @media (min-width: 768px){
   .navbar-brand {
     margin: 0 !important;
