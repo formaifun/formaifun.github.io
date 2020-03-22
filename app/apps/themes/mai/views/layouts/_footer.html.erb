@@ -1,19 +1,7 @@
 <footer class="footer mt-auto">
   <div class="align-self-center">
     <div class="justify-content-end" id="footer">
-      <nav class="navbar navbar-nav navbar-light sticky-bottom">
-        <ul class="navbar-nav navbar-footer">
-          <li class="menu-item">
-            <a class="menu_link" href="/about">About</a>
-          </li>
-          <li class="menu-item">
-            <a class="menu_link" href="/contact">Contact</a>
-          </li>
-          <li class="menu-item">
-            <a class="menu_link" href="/faq">FAQ</a>
-          </li>
-        </ul>
-      </nav>
+      <%= raw get_nav_menu('footer', 'navbar navbar-nav navbar-light sticky-bottom') %>
     </div>
   </div>
-</footer>    
+</footer>
