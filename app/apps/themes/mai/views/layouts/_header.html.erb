@@ -2,14 +2,24 @@
     <div class="container">
         <div class="navbar-header">
             <a id="logo" class="navbar-brand" href="<%= current_site.the_url %>"><%= current_site.the_title %></a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
         </div>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-main" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation">
+<!--          <span class="navbar-toggler-icon"></span>-->
+          <div class="menu cross menu-cross">
+            <label>
+              <svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="25" cy="25" r="25" />
+                <path class="line--1" d="M0 45l28-28c2-2 2-2 7-2h64" />
+                <path class="line--2" d="M0 25h99" />
+                <path class="line--3" d="M0 5l28 28c2 2 2 2 7 2h64" />
+              </svg>
+            </label>
+          </div>
+        </button>
         <div id="navbar-main" class="navbar-collapse collapse">
-            <%= raw get_nav_menu('main_menu', 'nav navbar-nav ml-auto') %>
+          <%= raw get_nav_menu('main_menu', 'nav navbar-nav ml-auto') %>
           
-            <%= raw current_site.draw_languages("language list-inline pull-right", true) %>
+          <%= raw current_site.draw_languages("language list-inline pull-right", true) %>
         </div>
     </div>
 </nav>

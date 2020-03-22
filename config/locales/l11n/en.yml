@@ -1,0 +1,7 @@
+en:
+  time:
+    formats:
+      right_short: '%B %Y' 
+  date:
+    formats:
+      right_short: '%B %Y'

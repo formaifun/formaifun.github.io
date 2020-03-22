@@ -7,7 +7,7 @@ module Themes::Mai::DefaultHelper
 
   end
 
-  def theme_mait_settings(theme)
+  def theme_mai_settings(theme)
 
   end
 

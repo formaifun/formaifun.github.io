@@ -1,3 +1,3 @@
 $(window).on("scroll", function() {
-    $("nav").toggleClass("shrink", $(this).scrollTop() > 50)
+    $(".header nav").toggleClass("shrink", $(this).scrollTop() > 50)
 });

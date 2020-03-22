@@ -12,4 +12,7 @@ Rails.application.config.assets.paths << Rails.root.join("app", "assets", "fonts
 # Precompile additional assets.
 # application.js, application.css, and all non-JS/CSS in the app/assets
 # folder are already added.
-# Rails.application.config.assets.precompile += %w( admin.js admin.css )
+Rails.application.config.assets.precompile += %w( admin.js admin.css )
+Rails.application.config.assets.precompile += %w(manifest.js)
+Rails.application.config.assets.precompile += %w(camaleon_cms/*)
+Rails.application.config.assets.precompile += %w( plugins/visibility_post/assets/**/* )  

@@ -1,0 +1,19 @@
+.swiper-container
+  .swiper-wrapper
+    - current_theme.the_attribute_fields('default_slider').each do |slide|
+      .swiper-slide style="background-image:url(#{slide['image']}"
+        - if slide['link'].present?
+          a.link href=slide['link']
+  .swiper-pagination
+  .swiper-button-next
+    i.fas.fa-angle-right
+          
+  .swiper-button-prev
+    i.fas.fa-angle-left
+
+/ <div class="slider">
+/   <div id="hero-slider" class="owl-carousel">
+/     <div class="item"> <a href="/about"><div class="item-bg" data-bg="<%= image_path('02.jpg') %>"></div></a> </div>
+/     <div class="item"> <div class="item-bg" data-bg="<%= image_path('03.jpg') %>"></div> </div>
+/   </div>
+/ </div>

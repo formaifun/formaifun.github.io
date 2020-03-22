@@ -11,8 +11,11 @@
 // about supported directives.
 //
 //= require jquery
+//= require turbolinks
 //= require camaleon_cms/bootstrap.min
 //= require jquery3
 //= require popper
 //= require bootstrap
 //= require ./mai
+//= require ./swiper
+//= require ./slider

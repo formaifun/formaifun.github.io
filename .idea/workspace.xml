@@ -2,105 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8a6f68-3956-4b35-a717-4a6537d78b81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/_mai.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/_styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/mai.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/config/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/default_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/admin/settings.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/category.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_footer.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_header.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/page.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/post.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/post_tag.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/post_type.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/search.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/apps/themes/new/assets/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/11096.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT-Book.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT-Demi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-BoldObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-BoldObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-BoldObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Book.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Book.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Book.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-BookObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-BookObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-BookObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Demi.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Demi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Demi.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-DemiObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-DemiObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-DemiObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-ExtraBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-ExtraBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-ExtraBoldObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-ExtraBoldObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-ExtraBoldObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Heavy.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Heavy.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Heavy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-HeavyObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-HeavyObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-HeavyObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-LightObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-LightObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-LightObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-MediumObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-MediumObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPT-MediumObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-BoldObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-BoldObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-BoldObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Book.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Book.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Book.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-BookObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-BookObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-BookObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-ExtraBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-ExtraBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-ExtraBoldObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-ExtraBoldObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-ExtraBoldObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-MediumObl.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-MediumObl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/FuturaPTCond-MediumObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPT/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FuturaPTCond-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/Proxima-Nova-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/Proxima-Nova.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/_owl.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/_slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/_swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/old_slider.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/owl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/slider.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/custom_field/_my_slider.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/index.html.slim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/partials/_breadcrumb.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/partials/_post_list_item.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/partials/_sidebar.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/ACFrOgCZ4U8ETIx2DBhgTakO2uceqe_1P2zzY6CFsuutEGDRFctZBaEposUgDf_EkND0SfIaExXOvizxljPlifgBU-2UPn2ucaubpfjw4ClTZMS1ZWV3SdgQ6XcP1eo=.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/assets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/locales/l11n/en.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/locales/l11n/ru.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/locales/l11n/uk.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/_mai.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/_mai.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/mai.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/mai.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/default_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/default_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/views/category.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/category.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/views/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_footer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_footer.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_header.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/views/page.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/page.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/views/post.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/post.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/apps/themes/mai/views/search.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps/themes/mai/views/search.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/config/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,400 +67,37 @@
   <component name="FavoritesManager">
     <favorites_list name="web" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/default_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/admin/settings.html.erb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_footer.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_header.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/camaleon-cms-a98178bf8173/app/helpers/camaleon_cms/frontend/nav_menu_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="15" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/layouts/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/css/main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/camaleon-cms-a98178bf8173/app/assets/stylesheets/camaleon_cms/bootstrap.min.css.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/css/_styles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1000">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/css/_mai.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/fonts/FuturaPT/stylesheet.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/application.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/default/assets/genericons/genericons.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3157" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/camaleon_first/assets/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/js/mai.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>50%</find>
-      <find>dot</find>
-      <find>autoge</find>
-      <find>jekyll</find>
-      <find>anima</find>
-      <find>slide_item</find>
-      <find>transition</find>
-      <find>show</find>
-      <find>thumbnails/</find>
-      <find>pagination</find>
-      <find>http</find>
-      <find>http:/</find>
-      <find>ruby-gt</find>
-      <find>bootsnap</find>
-      <find>CamaleonController</find>
-      <find>ApplicationHelper</find>
-      <find>eager_load_paths</find>
-      <find>Recaptcha</find>
-      <find>masthead</find>
-      <find>slide</find>
-      <find>image</find>
-      <find>font</find>
-      <find>font-awesome-rails</find>
-      <find>menu.html</find>
-      <find>genericons</find>
-      <find>title</find>
-      <find>the_</find>
-      <find>nav</find>
-      <find>branc</find>
-      <find>brand</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-      <dir>$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/camaleon_cms-2.4.6.5/app</dir>
-      <dir>$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/camaleon_cms-2.4.6.5</dir>
-      <dir>$PROJECT_DIR$/app/apps/themes/new/assets</dir>
-      <dir>$PROJECT_DIR$/app/apps/themes</dir>
-      <dir>$PROJECT_DIR$/app/apps/themes/mai</dir>
-      <dir>$PROJECT_DIR$/db/migrate</dir>
-      <dir>$PROJECT_DIR$/app</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/_includes/.gitignore" />
-        <option value="$PROJECT_DIR$/404.html" />
-        <option value="$PROJECT_DIR$/_includes/menu.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/assets/js/owl.carousel.min.js" />
-        <option value="$PROJECT_DIR$/assets/css/owl.carousel.min.css" />
-        <option value="$PROJECT_DIR$/assets/js/main.js" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/_site/travel/2019/06/01/sofia-and-surroundings-itinerary-for-four-or-less-days.html" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-06-01-sofia-and-surroundings-itinerary-for-four-or-less-days.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-06-01-sofia-and-surroundings-itinerary-for-four-or-less-days.markdown" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_includes/slider.html" />
-        <option value="$PROJECT_DIR$/food_drinks.html" />
-        <option value="$PROJECT_DIR$/_site/food/2019/06/06/test.html" />
-        <option value="$PROJECT_DIR$/travel.html" />
-        <option value="$PROJECT_DIR$/_includes/pag-posts.html" />
-        <option value="$PROJECT_DIR$/_site/food_drinks/index.html" />
-        <option value="$PROJECT_DIR$/_layouts/home.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/.ruby-version" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
-        <option value="$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/camaleon_cms-2.4.6.5/lib/camaleon_cms/engine.rb" />
-        <option value="$PROJECT_DIR$/config/boot.rb" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/main_helper.rb" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/default_helper.rb" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/views/custom_field/_my_slider.html.erb" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/config/config.json" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/assets/css/styles.css.scss" />
-        <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/config/initializers/assets.rb" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/views/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/assets/css/mai.css.scss" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_footer.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/assets/css/main.scss" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/assets/js/mai.js" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/assets/js/main.js" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/assets/css/_mai.scss" />
-        <option value="$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_header.html.erb" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="777" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="mai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="mai" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="mai" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="bootstrap (v4.3.1, RVM: ruby-2.6.3) [gem]" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="bootstrap (v4.3.1, RVM: ruby-2.6.3) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="bootstrap (v4.3.1, RVM: ruby-2.6.3) [gem]" type="70bed36:NamedLibraryElementNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="RailsProjectView" />
-    </panes>
+  <component name="ProjectId" id="1TTqIKbtzhsi4G8OUGDOJdjVrBW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/apps/themes/mai/assets/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/apps/themes/mai/assets/css" />
       <recent name="$PROJECT_DIR$/app/apps/themes/mai/assets" />
       <recent name="$PROJECT_DIR$/app/apps/themes/mai/assets/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/apps/themes/mai/assets/js" />
+      <recent name="$PROJECT_DIR$/config/locales/l11n" />
+      <recent name="$PROJECT_DIR$/app/apps/themes/mai/views/layouts" />
       <recent name="$PROJECT_DIR$/app/assets" />
       <recent name="$PROJECT_DIR$/app/apps/themes/mai/views" />
-      <recent name="$PROJECT_DIR$/app/apps/themes/mai/assets/images" />
-      <recent name="$PROJECT_DIR$/app/apps/themes/mai/assets" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Rails.Development: web">
     <configuration name="Development: web" type="RailsRunConfigurationType" factoryName="Rails">
@@ -587,6 +168,7 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
       <method v="2" />
     </configuration>
     <configuration name="test: web" type="RakeRunConfigurationType" factoryName="Rake">
@@ -612,10 +194,23 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="false" RAILS_SPRING_PRE_LOADER_OPTION="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -634,60 +229,18 @@
       <workItem from="1559948272689" duration="4791000" />
       <workItem from="1560626537220" duration="3000" />
       <workItem from="1560633528375" duration="11855000" />
-      <workItem from="1560867141350" duration="9900000" />
+      <workItem from="1560867141350" duration="14865000" />
+      <workItem from="1562667739854" duration="1614000" />
+      <workItem from="1562919488412" duration="14424000" />
+      <workItem from="1573494358725" duration="962000" />
+      <workItem from="1575220248127" duration="5864000" />
+      <workItem from="1575232223330" duration="3528000" />
+      <workItem from="1575329067627" duration="5872000" />
+      <workItem from="1575506115926" duration="6860000" />
+      <workItem from="1578183696869" duration="10824000" />
+      <workItem from="1583367144366" duration="1042000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50291000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984985" weight="0.5358306" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5015015" side_tool="true" weight="0.5252443" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49837133" weight="0.32882884" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.6096096" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49592835" weight="0.6381381" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50407165" side_tool="true" weight="0.6381381" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49918568" weight="0.32882884" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32980457" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984985" visible="true" weight="0.5252443" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5015015" side_tool="true" weight="0.5252443" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49918568" weight="0.32882884" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49837133" weight="0.32882884" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.6096096" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49592835" weight="0.6381381" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50407165" side_tool="true" weight="0.6381381" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32980457" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -702,265 +255,23 @@
       </list>
     </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/camaleon_cms-2.4.6.5/app/helpers/camaleon_cms/captcha_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/camaleon_cms-2.4.6.5/app/helpers/camaleon_cms/camaleon_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret column="34" selection-start-column="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/cama_contact_form-0.0.28/app/helpers/plugins/cama_contact_form/main_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/camaleon_cms-2.4.6.5/lib/camaleon_cms/version.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/recaptcha-5.0.0/lib/recaptcha/adapters/view_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/boot.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/default/default_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/default/assets/images/image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/default/assets/images/dotted-line-light-2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/layouts/camaleon_cms/mailer.html.erb" />
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/main_helper.rb" />
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/camaleon_cms-2.4.4.5/app/helpers/camaleon_cms/frontend/nav_menu_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-490">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/default/assets/images/dotted-line-light.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/camaleon_first/assets/images/empe.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/camaleon_first/assets/images/image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/new/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/new/assets/css/styles.css.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/genericons/COPYING.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/default/config/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/camaleon_first/assets/images/loader.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/camaleon_first/assets/images/zoom.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/new/config/config.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/new/assets/images/image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/new/image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/page.html.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/new/views/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/new/custom_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/custom_field/_my_slider.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="20" column="90" selection-start-line="20" selection-start-column="90" selection-end-line="20" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/css/style.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="109" column="19" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/config/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/default_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/admin/settings.html.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/default/assets/genericons/genericons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3157" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/layouts/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/camaleon-cms-a98178bf8173/app/assets/stylesheets/camaleon_cms/bootstrap.min.css.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/css/_styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1000">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/js/mai.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/camaleon_first/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/fonts/FuturaPT/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/assets/css/_mai.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps/themes/mai/views/layouts/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/camaleon-cms-a98178bf8173/app/helpers/camaleon_cms/frontend/nav_menu_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="129" width="774" height="564" key="find.popup" timestamp="1583368888913">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="253" y="129" width="774" height="564" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1583368888913" />
   </component>
 </project>
